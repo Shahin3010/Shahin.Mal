@@ -26,26 +26,26 @@
 # Installation :
 
 
-😈 `apt update`
+1- `apt update`
 
-😈 `apt upgrade -y`
+2- `apt upgrade -y`
 
-😈 `apt install git -y`
+3- `apt install git -y`
 
-😈 `pkg install python`
+4- `pkg install python`
 
-😈 `pkg install python2 -y`
+5- `pkg install python2 -y`
 
-😈 `pip2 install requests`
+6- `pip2 install requests`
 
-😈 `pip2 install mechanize`
+7- `pip2 install mechanize`
 
-😈 `pip install lolcat`
+8- `pip install lolcat`
 
-😈 `git clone https://github.com/Shahin3010/Shahin.Mal.git
+9-  `git clone https://github.com/Shahin3010/Shahin.Mal.git
 
-😈 `cd World`
+10-  `cd World`
 
-👾 `python2 Cloning.py`
+11-  `python2 Cloning.py`
 
 -#User name and password knock me on facbook ""https://www.facebook.com/Shahin.71vau/
